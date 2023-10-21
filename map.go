@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func gomap() {
 	// init a map with initial values
 	m := map[string]bool{
 		"x": true,
